@@ -1,4 +1,4 @@
-### Hi there, I'm Luis! 👋
+### Hi there, I'm Luis!
 
 I'm a **Bitcoin Developer** based in Canada/Mexico.
 I'm transitioning from a background in construction to building the future of finance. My philosophy is simple: **High Agency & Low Time Preference.**
@@ -25,4 +25,4 @@ A real-time Bitcoin network fee monitor with a retro PAC-MAN inspired interface.
 
 ### 📫 Connect with me
 * **Nostr:** `npub1r370lzppnjfn2dejp4qlr0h6z54g0c6fvtz80nk8dact2tdlzzhq9eh38y`
-* **Focus:** Buying reliable code, not just writing it.
+* **Focus:** Buying reliable code, not just writing it. 
