@@ -21,6 +21,11 @@ A real-time Bitcoin network fee monitor with a retro PAC-MAN inspired interface.
 * **Tech:** JS, CSS Glassmorphism, Mempool.space API.
 * **Live Demo:** [Click to Play](https://luisrm-btc.github.io/Fees/)
 
+* #### 💱 [Sats Converter (React App)](https://github.com/LuisRM-btc/sats-converter)
+A real-time Fiat-to-Bitcoin calculator fetching live prices from CoinGecko.
+* **Tech:** React.js, Vite, Axios, Hooks (useState/useEffect).
+* **Live Demo:** [Click to Calculate](https://sats-converter.vercel.app/)
+
 ---
 
 ### 📫 Connect with me
