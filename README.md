@@ -30,7 +30,7 @@ A Progressive Web App (PWA) that converts Fiat to Bitcoin with real-time prices.
 #### 🕹️ [Bitcoin Fee Watcher (Arcade Edition)](https://github.com/LuisRM-btc/mempool-fees-arcade)
 A real-time Bitcoin network fee monitor with a retro PAC-MAN inspired interface.
 * **Tech:** JS, CSS Glassmorphism, Mempool.space API.
-* **Live Demo:** [Click to Play](https://mempool-fees-arcade.vercel.app/)
+* **Live Demo:** [Click to Play](https://fees-phi-rose.vercel.app/)
 
 ---
 
