@@ -1,41 +1,46 @@
 ### Hi there, I'm Luis! 👋
 
-I'm a **Bitcoin Developer** based in Canada/Mexico.
+I'm a **Bitcoin Engineer & Builder** based in Canada/Mexico.
 I'm transitioning from a background in construction to building the future of finance. My philosophy is simple: **High Agency & Low Time Preference.**
 
-I architect solutions using **AI Agents** (Cursor, Claude, Antigravity) to build robust, secure, and user-friendly Bitcoin tools faster than traditional workflows.
+I architect **Offline-First** solutions using **AI Agents** (Cursor, Claude, Antigravity) to build robust, secure, and user-friendly Bitcoin tools faster than traditional workflows.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
-* **Frontend Core:** React.js, Vite, TailwindCSS, Glassmorphism UI.
-* **Bitcoin & Lightning:** Mempool APIs, Lightning Network (BOLT11), WebSockets (Real-time data).
-* **Decentralized Identity:** Nostr Protocol (NIP-07), Nostr Tools, Key Management.
+* **Frontend Core:** React.js, Vite, TailwindCSS, **Zustand (Global State)**, **i18n (Internationalization)**.
+* **Bitcoin & Lightning:** **LNURL-Pay Protocol**, Mempool APIs, Lightning Network (BOLT11), WebSockets.
+* **Offline & Storage:** **Dexie.js (IndexedDB)**, **PWA Architecture**, Local Persistence Patterns.
 * **Engineering Quality:** Unit Testing (Vitest), CI/CD workflows, Clean Architecture.
 
 ---
 
 ### ⚡ Featured Projects
 
+#### ⚡ [BoltPOS - Bitcoin Lightning Point of Sale](https://bolt-pos-bitcoin.vercel.app/)
+An offline-first, mobile-native POS system built for real-world commerce. It enables merchants to manage inventory and accept Bitcoin via Lightning Network seamlessly.
+* **Key Features:**
+    * 🛒 **Offline-First Architecture:** Full CRUD capabilities with local persistence using **Dexie.js**.
+    * ⚡ **Real-Time Payments:** Dynamic invoice generation via **LNURL-Pay** (Lightning Address).
+    * 🌍 **Global Ready:** Multi-language support (EN/ES) and auto-currency conversion (Fiat ↔ Sats).
+    * 📊 **Business Logic:** Sales dashboard, CSV exports, and numeric keypad for quick charges.
+* **Tech:** React, Zustand, TailwindCSS, Dexie.js, LNURL.
+* **Links:** [Live Demo](https://bolt-pos-bitcoin.vercel.app/) • [Source Code](https://github.com/LuisRM-btc/bolt-pos-bitcoin)
+
 #### 🌐 [Personal Portfolio Hub](https://luis-portfolio-ebon.vercel.app/)
 My central developer hub. A "Dark Glassmorphism" PWA built to showcase my Bitcoin skills.
-* **New Features:**
-    * 🟢 **Real-Time Data:** Live Bitcoin price ticker via WebSockets (Binance Stream) with auto-reconnection.
-    * 🔑 **Nostr Login:** Sovereign authentication using NIP-07 (Alby/nos2x Extension) with persistent session.
+* **Key Features:**
+    * 🟢 **Real-Time Data:** Live Bitcoin price ticker via WebSockets (Binance Stream).
+    * 🔑 **Nostr Login:** Sovereign authentication using NIP-07 (Alby/nos2x Extension).
     * 🛡️ **Tested:** Utility functions verified with **Vitest** (100% pass rate).
 * **Tech:** React.js, Vite, Nostr-Tools, Vitest.
-* **Live Demo:** [View Portfolio](https://luis-portfolio-ebon.vercel.app/)
+* **Links:** [View Portfolio](https://luis-portfolio-ebon.vercel.app/)
 
 #### 💱 [Sats Converter PWA](https://sats-converter.vercel.app/)
 A Progressive Web App (PWA) that converts Fiat to Bitcoin with real-time prices.
-* **Features:** Installable on mobile, Dark Mode, and **integrated Lightning Network payments** (Zap feature).
+* **Features:** Installable on mobile, Dark Mode, and **integrated Lightning Network payments**.
 * **Tech:** React.js, Vite, Axios, react-qr-code.
-* **Live Demo:** [Click to Calculate](https://sats-converter.vercel.app/)
-
-#### 🕹️ [Bitcoin Fee Watcher (Arcade Edition)](https://mempool-fees-arcade.vercel.app/)
-A real-time Bitcoin network fee monitor with a retro PAC-MAN inspired interface.
-* **Tech:** JS, CSS Glassmorphism, Mempool.space API.
-* **Live Demo:** [Click to Play](https://fees-phi-rose.vercel.app/)
+* **Links:** [Click to Calculate](https://sats-converter.vercel.app/)
 
 ---
 
