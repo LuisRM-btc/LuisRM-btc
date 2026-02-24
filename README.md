@@ -1,9 +1,9 @@
 ### Hi there, I'm Luis! 👋
 
-I'm a **Bitcoin Engineer & Builder** based in Canada/Mexico.
-I'm transitioning from a background in construction to building the future of finance. My philosophy is simple: **High Agency & Low Time Preference.**
+I'm a **Bitcoin Engineer & Builder** based in Mexico.
+My philosophy is simple: **High Agency & Low Time Preference.**
 
-I architect **Offline-First** solutions using **AI Agents** (Cursor, Claude, Antigravity) to build robust, secure, and user-friendly Bitcoin tools faster than traditional workflows.
+I architect **Offline-First** solutions using **AI Agents** to build robust, secure, and user-friendly Bitcoin tools faster than traditional workflows.
 
 ---
 
